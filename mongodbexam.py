@@ -214,7 +214,7 @@ def main():
         print("\n--- DISPLAYING UPDATED ORDERS ---")
         display_all_orders(order_collection)
         
-        print("\n--- CALCULATING TOTAL AMOUNT ---")
+        print("\n--- CALCULATING TOTAL AMOUNT FOR ORDER ID: 1 ---")
         calculate_total_amount_for_order(order_collection, 1)
         
         print("\n--- COUNTING PRODUCTS SOMI ---")
